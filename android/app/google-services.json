@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "698264849528",
+    "project_id": "fleet-flame-409205",
+    "storage_bucket": "fleet-flame-409205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698264849528:android:67020cba7c082957c2f18d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698264849528-vfo2740krd9r8b44sh36dg5div93gqev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PyJAjYueXYvMV4lvhw7q_X1gkqaAnaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698264849528-vfo2740krd9r8b44sh36dg5div93gqev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698264849528-aisftlu209l5bl2bou5slhasa2aqihe0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
