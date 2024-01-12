@@ -1,8 +1,11 @@
 # firebase_app
 
 Team Pede Aja Dulu
+
 Hustler : Shidqi Ahmad Musyaffa'
+
 Hipster : Nabil Al Faros
+
 Hacker  : Harry Mardika, Muhammad Irza Alfarizi
 
 Login page menggunakan Firebase Email/Password Authentication.
